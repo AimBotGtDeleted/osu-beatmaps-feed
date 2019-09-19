@@ -1,0 +1,414 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:media="http://search.yahoo.com/mrss/">
+  <channel>
+    <atom:link href="https://osu-beatmaps-feed.glitch.me/ranked/feed" rel="self" type="application/rss+xml"/>
+    <title>Osu! Beatmaps Listing</title>
+    <link>https://osu.ppy.sh/beatmapsets</link>
+    <description>List of Osu! ranked and approved beatmap sets.</description>
+    <image>
+      <url>https://cdn.glitch.com/4aa329c1-a2bb-44ed-8533-f6bca913d8eb%2Fosu%20logo.jpg?1531565922725</url>
+      <link>https://osu.ppy.sh/beatmapsets</link>
+      <title>Osu! Beatmaps Listing</title>
+    </image>
+    <item>
+      <title>"New World" by nora2r</title>
+      <description>osu!mania mode available. Map created by "Kamikaze".</description>
+      <link>https://osu.ppy.sh/beatmapsets/910843</link>
+      <guid>https://osu.ppy.sh/beatmapsets/910843</guid>
+      <pubDate>Thu, 19 Sep 2019 18:46:52 +0000</pubDate>
+      <media:content url="https://assets.ppy.sh/beatmaps/910843/covers/cover@2x.jpg?1568196388" type="image/jpg"/>
+    </item>
+    <item>
+      <title>"Fates Fall -Kibou no Kage- (Ending Version)" by Ito Kanako</title>
+      <description>Song from リーグ・オブ・レジェンド. osu! mode available. Map created by "SaltyLucario".</description>
+      <link>https://osu.ppy.sh/beatmapsets/979592</link>
+      <guid>https://osu.ppy.sh/beatmapsets/979592</guid>
+      <pubDate>Thu, 19 Sep 2019 17:41:51 +0000</pubDate>
+      <media:content url="https://assets.ppy.sh/beatmaps/979592/covers/cover@2x.jpg?1568300412" type="image/jpg"/>
+    </item>
+    <item>
+      <title>"Winter Night Highway" by ginkiha</title>
+      <description>Song from osu!. osu!taiko mode available. Map created by "Aisha".</description>
+      <link>https://osu.ppy.sh/beatmapsets/998565</link>
+      <guid>https://osu.ppy.sh/beatmapsets/998565</guid>
+      <pubDate>Thu, 19 Sep 2019 12:45:15 +0000</pubDate>
+      <media:content url="https://assets.ppy.sh/beatmaps/998565/covers/cover@2x.jpg?1568223088" type="image/jpg"/>
+    </item>
+    <item>
+      <title>"Koyoi mofumofu!! (TV Size)" by Senko (CV: Waki Azumi), Shiro (CV: Uchida Maaya)</title>
+      <description>Song from 世話やきキツネの仙狐さん. osu!mania mode available. Map created by "Faputa".</description>
+      <link>https://osu.ppy.sh/beatmapsets/993792</link>
+      <guid>https://osu.ppy.sh/beatmapsets/993792</guid>
+      <pubDate>Thu, 19 Sep 2019 09:22:34 +0000</pubDate>
+      <media:content url="https://assets.ppy.sh/beatmaps/993792/covers/cover@2x.jpg?1568204381" type="image/jpg"/>
+    </item>
+    <item>
+      <title>"Hana ni Natta Shounen no Shinwa" by Ceui</title>
+      <description>osu! mode available. Map created by "Ryuusei Aika".</description>
+      <link>https://osu.ppy.sh/beatmapsets/919268</link>
+      <guid>https://osu.ppy.sh/beatmapsets/919268</guid>
+      <pubDate>Thu, 19 Sep 2019 05:43:49 +0000</pubDate>
+      <media:content url="https://assets.ppy.sh/beatmaps/919268/covers/cover@2x.jpg?1568738350" type="image/jpg"/>
+    </item>
+    <item>
+      <title>"Ne, Issho ni Kaero. (TV Size)" by Hitori Bocchi (CV: Morishita Chisaki)</title>
+      <description>Song from ひとりぼっちの○○生活. osu!taiko mode available. Map created by "Tyistiana".</description>
+      <link>https://osu.ppy.sh/beatmapsets/1027859</link>
+      <guid>https://osu.ppy.sh/beatmapsets/1027859</guid>
+      <pubDate>Thu, 19 Sep 2019 01:45:53 +0000</pubDate>
+      <media:content url="https://assets.ppy.sh/beatmaps/1027859/covers/cover@2x.jpg?1568702734" type="image/jpg"/>
+    </item>
+    <item>
+      <title>"Kaeri wa Kowai" by UNDEAD CORPORATION</title>
+      <description>Song from 東方星蓮船　～ Undefined Fantastic Object.. osu! mode available. Map created by "walaowey".</description>
+      <link>https://osu.ppy.sh/beatmapsets/1025382</link>
+      <guid>https://osu.ppy.sh/beatmapsets/1025382</guid>
+      <pubDate>Thu, 19 Sep 2019 00:21:52 +0000</pubDate>
+      <media:content url="https://assets.ppy.sh/beatmaps/1025382/covers/cover@2x.jpg?1568159487" type="image/jpg"/>
+    </item>
+    <item>
+      <title>"Oriental Blossom -Eika Shuuei-" by Eisyo-kobu</title>
+      <description>Song from SOUND VOLTEX III GRAVITY WARS. osu!taiko mode available. Map created by "Capu".</description>
+      <link>https://osu.ppy.sh/beatmapsets/990317</link>
+      <guid>https://osu.ppy.sh/beatmapsets/990317</guid>
+      <pubDate>Wed, 18 Sep 2019 17:41:31 +0000</pubDate>
+      <media:content url="https://assets.ppy.sh/beatmaps/990317/covers/cover@2x.jpg?1568293872" type="image/jpg"/>
+    </item>
+    <item>
+      <title>"ANGEL VOICES" by VIRTUAL SELF</title>
+      <description>Song from osu!. osu!taiko mode available. Map created by "HiroK".</description>
+      <link>https://osu.ppy.sh/beatmapsets/1001789</link>
+      <guid>https://osu.ppy.sh/beatmapsets/1001789</guid>
+      <pubDate>Wed, 18 Sep 2019 17:24:57 +0000</pubDate>
+      <media:content url="https://assets.ppy.sh/beatmaps/1001789/covers/cover@2x.jpg?1568170336" type="image/jpg"/>
+    </item>
+    <item>
+      <title>"Fracture Ray" by Sakuzyo</title>
+      <description>Song from Arcaea. osu!taiko mode available. Map created by "Rhytoly".</description>
+      <link>https://osu.ppy.sh/beatmapsets/1005684</link>
+      <guid>https://osu.ppy.sh/beatmapsets/1005684</guid>
+      <pubDate>Wed, 18 Sep 2019 16:30:14 +0000</pubDate>
+      <media:content url="https://assets.ppy.sh/beatmaps/1005684/covers/cover@2x.jpg?1568217196" type="image/jpg"/>
+    </item>
+    <item>
+      <title>"Grievous Lady" by Team Grimoire vs. Laur</title>
+      <description>Song from Arcaea. osu!taiko mode available. Map created by "Rhytoly".</description>
+      <link>https://osu.ppy.sh/beatmapsets/1005685</link>
+      <guid>https://osu.ppy.sh/beatmapsets/1005685</guid>
+      <pubDate>Wed, 18 Sep 2019 16:29:15 +0000</pubDate>
+      <media:content url="https://assets.ppy.sh/beatmaps/1005685/covers/cover@2x.jpg?1568217040" type="image/jpg"/>
+    </item>
+    <item>
+      <title>"BON-BON (TV Size)" by CooRie</title>
+      <description>Song from Tanaka-kun is Always Listless. osu! mode available. Map created by "Iceluin".</description>
+      <link>https://osu.ppy.sh/beatmapsets/938137</link>
+      <guid>https://osu.ppy.sh/beatmapsets/938137</guid>
+      <pubDate>Wed, 18 Sep 2019 16:23:39 +0000</pubDate>
+      <media:content url="https://assets.ppy.sh/beatmaps/938137/covers/cover@2x.jpg?1568215897" type="image/jpg"/>
+    </item>
+    <item>
+      <title>"Smiley Contrast" by Hatsune (CV: Ohashi Ayaka), Shiori (CV: Koshimizu Ami)</title>
+      <description>Song from プリンセスコネクト！Re:Dive. osu! mode available. Map created by "Riana".</description>
+      <link>https://osu.ppy.sh/beatmapsets/967502</link>
+      <guid>https://osu.ppy.sh/beatmapsets/967502</guid>
+      <pubDate>Wed, 18 Sep 2019 14:22:59 +0000</pubDate>
+      <media:content url="https://assets.ppy.sh/beatmaps/967502/covers/cover@2x.jpg?1568210762" type="image/jpg"/>
+    </item>
+    <item>
+      <title>"flying in the flow of deep-sea" by Camellia</title>
+      <description>Song from osu!. osu!catch mode available. Map created by "Rocma".</description>
+      <link>https://osu.ppy.sh/beatmapsets/861357</link>
+      <guid>https://osu.ppy.sh/beatmapsets/861357</guid>
+      <pubDate>Wed, 18 Sep 2019 12:05:17 +0000</pubDate>
+      <media:content url="https://assets.ppy.sh/beatmaps/861357/covers/cover@2x.jpg?1567999578" type="image/jpg"/>
+    </item>
+    <item>
+      <title>"FireLight" by Dustvoxx, Laur</title>
+      <description>osu!taiko mode available. Map created by "yea".</description>
+      <link>https://osu.ppy.sh/beatmapsets/978134</link>
+      <guid>https://osu.ppy.sh/beatmapsets/978134</guid>
+      <pubDate>Wed, 18 Sep 2019 11:43:50 +0000</pubDate>
+      <media:content url="https://assets.ppy.sh/beatmaps/978134/covers/cover@2x.jpg?1568134820" type="image/jpg"/>
+    </item>
+    <item>
+      <title>"Recall THE END (TV Size)" by TRUSTRICK</title>
+      <description>Song from ダンガンロンパ3-The End of 希望ヶ峰学園- 未来編. osu! mode available. Map created by "Andrea".</description>
+      <link>https://osu.ppy.sh/beatmapsets/1020042</link>
+      <guid>https://osu.ppy.sh/beatmapsets/1020042</guid>
+      <pubDate>Wed, 18 Sep 2019 10:05:52 +0000</pubDate>
+      <media:content url="https://assets.ppy.sh/beatmaps/1020042/covers/cover@2x.jpg?1568403244" type="image/jpg"/>
+    </item>
+    <item>
+      <title>"Fanfare" by sumika</title>
+      <description>Song from 君の膵臓をたべたい. osu! and osu!taiko modes available. Map created by "Teky".</description>
+      <link>https://osu.ppy.sh/beatmapsets/1004378</link>
+      <guid>https://osu.ppy.sh/beatmapsets/1004378</guid>
+      <pubDate>Wed, 18 Sep 2019 09:06:07 +0000</pubDate>
+      <media:content url="https://assets.ppy.sh/beatmaps/1004378/covers/cover@2x.jpg?1567687964" type="image/jpg"/>
+    </item>
+    <item>
+      <title>"Songs Compilation" by Fractal Dreamers</title>
+      <description>osu! mode available. Map created by "_Epreus".</description>
+      <link>https://osu.ppy.sh/beatmapsets/980459</link>
+      <guid>https://osu.ppy.sh/beatmapsets/980459</guid>
+      <pubDate>Wed, 18 Sep 2019 06:42:52 +0000</pubDate>
+      <media:content url="https://assets.ppy.sh/beatmaps/980459/covers/cover@2x.jpg?1568107092" type="image/jpg"/>
+    </item>
+    <item>
+      <title>"Shinzou Democracy" by MikitoP</title>
+      <description>osu! mode available. Map created by "moph".</description>
+      <link>https://osu.ppy.sh/beatmapsets/928939</link>
+      <guid>https://osu.ppy.sh/beatmapsets/928939</guid>
+      <pubDate>Wed, 18 Sep 2019 03:21:44 +0000</pubDate>
+      <media:content url="https://assets.ppy.sh/beatmaps/928939/covers/cover@2x.jpg?1568179239" type="image/jpg"/>
+    </item>
+    <item>
+      <title>"Rivals" by Creo</title>
+      <description>Song from osu!. osu! mode available. Map created by "mithew".</description>
+      <link>https://osu.ppy.sh/beatmapsets/1012878</link>
+      <guid>https://osu.ppy.sh/beatmapsets/1012878</guid>
+      <pubDate>Tue, 17 Sep 2019 23:03:28 +0000</pubDate>
+      <media:content url="https://assets.ppy.sh/beatmaps/1012878/covers/cover@2x.jpg?1567963525" type="image/jpg"/>
+    </item>
+    <item>
+      <title>"Black Night Town (TV Size)" by Kondo Akihisa</title>
+      <description>Song from NARUTO-ナルト-疾風伝. osu! mode available. Map created by "Net0".</description>
+      <link>https://osu.ppy.sh/beatmapsets/892003</link>
+      <guid>https://osu.ppy.sh/beatmapsets/892003</guid>
+      <pubDate>Tue, 17 Sep 2019 20:44:30 +0000</pubDate>
+      <media:content url="https://assets.ppy.sh/beatmaps/892003/covers/cover@2x.jpg?1567863705" type="image/jpg"/>
+    </item>
+    <item>
+      <title>"Kokoronashi" by Hanatan</title>
+      <description>osu! mode available. Map created by "frozz".</description>
+      <link>https://osu.ppy.sh/beatmapsets/1013675</link>
+      <guid>https://osu.ppy.sh/beatmapsets/1013675</guid>
+      <pubDate>Tue, 17 Sep 2019 13:02:10 +0000</pubDate>
+      <media:content url="https://assets.ppy.sh/beatmaps/1013675/covers/cover@2x.jpg?1566399437" type="image/jpg"/>
+    </item>
+    <item>
+      <title>"Chikatto Chika Chika (TV Size)" by Fujiwara Chika (CV: Kohara Konomi)</title>
+      <description>Song from Kaguya-sama: Love Is War. osu! mode available. Map created by "Sparhten".</description>
+      <link>https://osu.ppy.sh/beatmapsets/918580</link>
+      <guid>https://osu.ppy.sh/beatmapsets/918580</guid>
+      <pubDate>Tue, 17 Sep 2019 08:24:42 +0000</pubDate>
+      <media:content url="https://assets.ppy.sh/beatmaps/918580/covers/cover@2x.jpg?1568162632" type="image/jpg"/>
+    </item>
+    <item>
+      <title>"Watashi no Tame no Monogatari ~My Uncompleted Story~ (nenpulse bootleg remix)" by fhana</title>
+      <description>Song from メルヘン・メドヘン. osu! mode available. Map created by "celerih".</description>
+      <link>https://osu.ppy.sh/beatmapsets/1034168</link>
+      <guid>https://osu.ppy.sh/beatmapsets/1034168</guid>
+      <pubDate>Tue, 17 Sep 2019 02:43:46 +0000</pubDate>
+      <media:content url="https://assets.ppy.sh/beatmaps/1034168/covers/cover@2x.jpg?1568387565" type="image/jpg"/>
+    </item>
+    <item>
+      <title>"Storming the Burning Fields" by DragonForce</title>
+      <description>osu!taiko mode available. Map created by "Reed_405".</description>
+      <link>https://osu.ppy.sh/beatmapsets/983580</link>
+      <guid>https://osu.ppy.sh/beatmapsets/983580</guid>
+      <pubDate>Tue, 17 Sep 2019 02:42:05 +0000</pubDate>
+      <media:content url="https://assets.ppy.sh/beatmaps/983580/covers/cover@2x.jpg?1567862712" type="image/jpg"/>
+    </item>
+    <item>
+      <title>"Dame wa Dame (TV Size)" by Suzuki Minori</title>
+      <description>Song from 手品先輩. osu! mode available. Map created by "Agatsu".</description>
+      <link>https://osu.ppy.sh/beatmapsets/1015507</link>
+      <guid>https://osu.ppy.sh/beatmapsets/1015507</guid>
+      <pubDate>Tue, 17 Sep 2019 01:24:24 +0000</pubDate>
+      <media:content url="https://assets.ppy.sh/beatmaps/1015507/covers/cover@2x.jpg?1567819055" type="image/jpg"/>
+    </item>
+    <item>
+      <title>"theyaremanycolors" by Frums</title>
+      <description>osu!taiko mode available. Map created by "Genjuro".</description>
+      <link>https://osu.ppy.sh/beatmapsets/984900</link>
+      <guid>https://osu.ppy.sh/beatmapsets/984900</guid>
+      <pubDate>Mon, 16 Sep 2019 23:23:55 +0000</pubDate>
+      <media:content url="https://assets.ppy.sh/beatmaps/984900/covers/cover@2x.jpg?1567930435" type="image/jpg"/>
+    </item>
+    <item>
+      <title>"Inori no Tane" by Shimotsuki Haruka</title>
+      <description>osu! mode available. Map created by "Lasse".</description>
+      <link>https://osu.ppy.sh/beatmapsets/1022320</link>
+      <guid>https://osu.ppy.sh/beatmapsets/1022320</guid>
+      <pubDate>Mon, 16 Sep 2019 19:23:18 +0000</pubDate>
+      <media:content url="https://assets.ppy.sh/beatmaps/1022320/covers/cover@2x.jpg?1567963919" type="image/jpg"/>
+    </item>
+    <item>
+      <title>"NINI" by Tezuka x Qayo</title>
+      <description>Song from MUSYNX. osu! mode available. Map created by "Cherry Blossom".</description>
+      <link>https://osu.ppy.sh/beatmapsets/935181</link>
+      <guid>https://osu.ppy.sh/beatmapsets/935181</guid>
+      <pubDate>Mon, 16 Sep 2019 18:44:18 +0000</pubDate>
+      <media:content url="https://assets.ppy.sh/beatmaps/935181/covers/cover@2x.jpg?1568154280" type="image/jpg"/>
+    </item>
+    <item>
+      <title>"Yggdrasil" by Gram vs. Kobaryo</title>
+      <description>osu!taiko mode available. Map created by "Loctav".</description>
+      <link>https://osu.ppy.sh/beatmapsets/959204</link>
+      <guid>https://osu.ppy.sh/beatmapsets/959204</guid>
+      <pubDate>Mon, 16 Sep 2019 13:02:51 +0000</pubDate>
+      <media:content url="https://assets.ppy.sh/beatmaps/959204/covers/cover@2x.jpg?1568021565" type="image/jpg"/>
+    </item>
+    <item>
+      <title>"Raven Haven" by SOOOO</title>
+      <description>Song from osu!. osu!taiko mode available. Map created by "Raiden".</description>
+      <link>https://osu.ppy.sh/beatmapsets/921535</link>
+      <guid>https://osu.ppy.sh/beatmapsets/921535</guid>
+      <pubDate>Mon, 16 Sep 2019 11:01:59 +0000</pubDate>
+      <media:content url="https://assets.ppy.sh/beatmaps/921535/covers/cover@2x.jpg?1567951237" type="image/jpg"/>
+    </item>
+    <item>
+      <title>"Brightest Melody (MOVIE SIZE)" by Aqours</title>
+      <description>Song from ラブライブ！サンシャイン!!The School Idol Movie Over the Rainbow. osu! mode available. Map created by "Sotarks".</description>
+      <link>https://osu.ppy.sh/beatmapsets/1007637</link>
+      <guid>https://osu.ppy.sh/beatmapsets/1007637</guid>
+      <pubDate>Mon, 16 Sep 2019 10:26:02 +0000</pubDate>
+      <media:content url="https://assets.ppy.sh/beatmaps/1007637/covers/cover@2x.jpg?1568051305" type="image/jpg"/>
+    </item>
+    <item>
+      <title>"Harumodoki (TV Size)" by yanaginagi</title>
+      <description>Song from やはり俺の青春ラブコメはまちがっている。続. osu! mode available. Map created by "In your heart".</description>
+      <link>https://osu.ppy.sh/beatmapsets/545139</link>
+      <guid>https://osu.ppy.sh/beatmapsets/545139</guid>
+      <pubDate>Sun, 15 Sep 2019 22:44:59 +0000</pubDate>
+      <media:content url="https://assets.ppy.sh/beatmaps/545139/covers/cover@2x.jpg?1567982859" type="image/jpg"/>
+    </item>
+    <item>
+      <title>"Aldebaran" by sakuzyo</title>
+      <description>osu! mode available. Map created by "Ellyu".</description>
+      <link>https://osu.ppy.sh/beatmapsets/607948</link>
+      <guid>https://osu.ppy.sh/beatmapsets/607948</guid>
+      <pubDate>Sun, 15 Sep 2019 18:43:51 +0000</pubDate>
+      <media:content url="https://assets.ppy.sh/beatmaps/607948/covers/cover@2x.jpg?1567968017" type="image/jpg"/>
+    </item>
+    <item>
+      <title>"Songs Compilation" by Minase Inori</title>
+      <description>osu! mode available. Map created by "_kotachi_".</description>
+      <link>https://osu.ppy.sh/beatmapsets/957074</link>
+      <guid>https://osu.ppy.sh/beatmapsets/957074</guid>
+      <pubDate>Sun, 15 Sep 2019 16:25:33 +0000</pubDate>
+      <media:content url="https://assets.ppy.sh/beatmaps/957074/covers/cover@2x.jpg?1567958482" type="image/jpg"/>
+    </item>
+    <item>
+      <title>"Natsuzora Yell (TV Size)" by Momohara Natsuki (CV: Murakawa Rie)</title>
+      <description>Song from OneRoom. osu! mode available. Map created by "Sotarks".</description>
+      <link>https://osu.ppy.sh/beatmapsets/1028594</link>
+      <guid>https://osu.ppy.sh/beatmapsets/1028594</guid>
+      <pubDate>Sun, 15 Sep 2019 16:25:07 +0000</pubDate>
+      <media:content url="https://assets.ppy.sh/beatmaps/1028594/covers/cover@2x.jpg?1567797649" type="image/jpg"/>
+    </item>
+    <item>
+      <title>"Cold Skin" by Seven Lions &amp; Echos</title>
+      <description>osu!catch mode available. Map created by "-Ken".</description>
+      <link>https://osu.ppy.sh/beatmapsets/946446</link>
+      <guid>https://osu.ppy.sh/beatmapsets/946446</guid>
+      <pubDate>Sun, 15 Sep 2019 14:03:05 +0000</pubDate>
+      <media:content url="https://assets.ppy.sh/beatmaps/946446/covers/cover@2x.jpg?1567873599" type="image/jpg"/>
+    </item>
+    <item>
+      <title>"Rough &amp; Laugh" by clammbon</title>
+      <description>Song from しろくまカフェ. osu! mode available. Map created by "Kaitjuh".</description>
+      <link>https://osu.ppy.sh/beatmapsets/889438</link>
+      <guid>https://osu.ppy.sh/beatmapsets/889438</guid>
+      <pubDate>Sun, 15 Sep 2019 13:23:06 +0000</pubDate>
+      <media:content url="https://assets.ppy.sh/beatmaps/889438/covers/cover@2x.jpg?1567778676" type="image/jpg"/>
+    </item>
+    <item>
+      <title>"Utsukushiki Zankoku na Sekai (TV Size)" by Hikasa Youko</title>
+      <description>Song from 進撃の巨人. osu! mode available. Map created by "Yudragen".</description>
+      <link>https://osu.ppy.sh/beatmapsets/984990</link>
+      <guid>https://osu.ppy.sh/beatmapsets/984990</guid>
+      <pubDate>Sun, 15 Sep 2019 12:26:00 +0000</pubDate>
+      <media:content url="https://assets.ppy.sh/beatmaps/984990/covers/cover@2x.jpg?1567793543" type="image/jpg"/>
+    </item>
+    <item>
+      <title>"SETI" by GONE.FLUDD</title>
+      <description>osu! mode available. Map created by "Alumetri".</description>
+      <link>https://osu.ppy.sh/beatmapsets/846396</link>
+      <guid>https://osu.ppy.sh/beatmapsets/846396</guid>
+      <pubDate>Sun, 15 Sep 2019 09:02:24 +0000</pubDate>
+      <media:content url="https://assets.ppy.sh/beatmaps/846396/covers/cover@2x.jpg?1567429291" type="image/jpg"/>
+    </item>
+    <item>
+      <title>"Mute" by Native Construct</title>
+      <description>osu! mode available. Map created by "Dilectus".</description>
+      <link>https://osu.ppy.sh/beatmapsets/951320</link>
+      <guid>https://osu.ppy.sh/beatmapsets/951320</guid>
+      <pubDate>Sun, 15 Sep 2019 06:42:32 +0000</pubDate>
+      <media:content url="https://assets.ppy.sh/beatmaps/951320/covers/cover@2x.jpg?1567887255" type="image/jpg"/>
+    </item>
+    <item>
+      <title>"WHEN AN ANGEL DIES" by LukHash</title>
+      <description>Song from osu!. osu!catch mode available. Map created by "Nelly".</description>
+      <link>https://osu.ppy.sh/beatmapsets/1008600</link>
+      <guid>https://osu.ppy.sh/beatmapsets/1008600</guid>
+      <pubDate>Sun, 15 Sep 2019 05:03:31 +0000</pubDate>
+      <media:content url="https://assets.ppy.sh/beatmaps/1008600/covers/cover@2x.jpg?1568052003" type="image/jpg"/>
+    </item>
+    <item>
+      <title>"black bullet" by fripSide</title>
+      <description>Song from ブラック・ブレット. osu! mode available. Map created by "Cyndere".</description>
+      <link>https://osu.ppy.sh/beatmapsets/905839</link>
+      <guid>https://osu.ppy.sh/beatmapsets/905839</guid>
+      <pubDate>Sat, 14 Sep 2019 17:43:36 +0000</pubDate>
+      <media:content url="https://assets.ppy.sh/beatmaps/905839/covers/cover@2x.jpg?1567877084" type="image/jpg"/>
+    </item>
+    <item>
+      <title>"Alchemia (Short Ver.)" by Nakae Mitsuki</title>
+      <description>Song from ネルケと伝説の錬金術士たち ～新たな大地のアトリエ～. osu!catch mode available. Map created by "-Luminate".</description>
+      <link>https://osu.ppy.sh/beatmapsets/991718</link>
+      <guid>https://osu.ppy.sh/beatmapsets/991718</guid>
+      <pubDate>Sat, 14 Sep 2019 15:06:05 +0000</pubDate>
+      <media:content url="https://assets.ppy.sh/beatmaps/991718/covers/cover@2x.jpg?1567862504" type="image/jpg"/>
+    </item>
+    <item>
+      <title>"Black Rover" by Vickeblanka</title>
+      <description>Song from ブラッククローバー. osu! and osu!taiko modes available. Map created by "zhu".</description>
+      <link>https://osu.ppy.sh/beatmapsets/913669</link>
+      <guid>https://osu.ppy.sh/beatmapsets/913669</guid>
+      <pubDate>Sat, 14 Sep 2019 13:04:41 +0000</pubDate>
+      <media:content url="https://assets.ppy.sh/beatmaps/913669/covers/cover@2x.jpg?1568106167" type="image/jpg"/>
+    </item>
+    <item>
+      <title>"BRAVER (TV Size)" by ZAQ</title>
+      <description>Song from 食戟のソーマ 餐ノ皿. osu!mania mode available. Map created by "Kyousukee".</description>
+      <link>https://osu.ppy.sh/beatmapsets/886763</link>
+      <guid>https://osu.ppy.sh/beatmapsets/886763</guid>
+      <pubDate>Sat, 14 Sep 2019 10:46:54 +0000</pubDate>
+      <media:content url="https://assets.ppy.sh/beatmaps/886763/covers/cover@2x.jpg?1568190329" type="image/jpg"/>
+    </item>
+    <item>
+      <title>"Paradigm Shift" by Fractal Dreamers</title>
+      <description>osu! mode available. Map created by "_Epreus".</description>
+      <link>https://osu.ppy.sh/beatmapsets/900006</link>
+      <guid>https://osu.ppy.sh/beatmapsets/900006</guid>
+      <pubDate>Sat, 14 Sep 2019 08:02:46 +0000</pubDate>
+      <media:content url="https://assets.ppy.sh/beatmaps/900006/covers/cover@2x.jpg?1567832286" type="image/jpg"/>
+    </item>
+    <item>
+      <title>"Arche" by Camellia</title>
+      <description>osu! mode available. Map created by "Realazy".</description>
+      <link>https://osu.ppy.sh/beatmapsets/1019291</link>
+      <guid>https://osu.ppy.sh/beatmapsets/1019291</guid>
+      <pubDate>Sat, 14 Sep 2019 03:26:16 +0000</pubDate>
+      <media:content url="https://assets.ppy.sh/beatmaps/1019291/covers/cover@2x.jpg?1567715823" type="image/jpg"/>
+    </item>
+    <item>
+      <title>"Lunatic set 16 ~ The Space Shrine Maiden Returns Home" by Rin</title>
+      <description>Song from 東方紺珠伝　～ Legacy of Lunatic Kingdom.. osu!taiko mode available. Map created by "komasy".</description>
+      <link>https://osu.ppy.sh/beatmapsets/957412</link>
+      <guid>https://osu.ppy.sh/beatmapsets/957412</guid>
+      <pubDate>Sat, 14 Sep 2019 03:18:52 +0000</pubDate>
+      <media:content url="https://assets.ppy.sh/beatmaps/957412/covers/cover@2x.jpg?1563458797" type="image/jpg"/>
+    </item>
+    <item>
+      <title>"conflict" by siromaru + cranky</title>
+      <description>Song from SOUND VOLTEX III GRAVITY WARS. osu!taiko mode available. Map created by "radar".</description>
+      <link>https://osu.ppy.sh/beatmapsets/1018134</link>
+      <guid>https://osu.ppy.sh/beatmapsets/1018134</guid>
+      <pubDate>Sat, 14 Sep 2019 03:18:20 +0000</pubDate>
+      <media:content url="https://assets.ppy.sh/beatmaps/1018134/covers/cover@2x.jpg?1566073598" type="image/jpg"/>
+    </item>
+  </channel>
+</rss>
